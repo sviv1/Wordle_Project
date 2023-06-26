@@ -12,7 +12,7 @@ This is a Wordle clone project built with HTML, CSS, and JavaScript. The game is
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/wordle-clone.git
+1. Clone the repository: git clone https://github.com/my-username/wordle-clone.git
 
 2. Open the project folder: cd wordle-clone
 
